@@ -1,0 +1,55 @@
+{
+
+"BOT_NAME": "ASITHA-MD",
+"VERSION": "2.1.1",
+"CREATED_BY": "ASITHA CHATHURANGA",
+"ALIVE_NEWS": "`දැම් Free Movie Download කරන්න පුළුවන් දැන්නම Deploy කරගම්න` \n\n Deploy Video 👇 \n\n https://youtu.be/phSd8axPJxE?si=QttwA9xkHmhYDfUi",
+  
+"replyMsg": {
+  
+  "giveme": "*Please give me text ❓*",
+
+  "giveut": "*Please give me Url or Text ❓*",
+
+  "not_fo": "*❌ I Couldn't find anything :(*",
+
+  "url": "*Please give me Url ❓*",
+  
+  "valid_url": "*This Url is invalid ❌ Please give me valid Url ❗*",
+
+  "size_big": "*File size is too big ❌*",
+
+  "own_cmd": "*This is Owner Commad ‼*",
+
+  "pre_cmd": "`Your not premier user` 🚫\n\n* පොඩි මුදලක් ගෙවල හැමදාටම ප්‍රිමියුම් ඇඩ් කරගම්න🌿\n\n * https://wa.me/+94743381623?text=Prem_👾",
+
+  "ald_set": "*Already set* 😒✅",
+
+  "only_gp": "This is group command ❗",
+
+  "inb_cmd": "This is inbox command ❗",
+
+  "give_adm": "Please give me admin first 🤦🏻‍♂️",
+
+  "you_adm": "Your Must Be Admin First 😒",
+
+  "need_jid": "Please give me jid ❓",
+
+  "valid_jid": "*This not jid ❌ Please give me valid jid ❗*",
+
+  "ald_approve_jid": "Jid approve accept ✔",
+
+  "ald_approve_alljid": "All Jid approve accept ✔",
+
+  "ald_reapprove_jid": "Jid approve reject ✔",
+
+  "ald_reapprove_alljid": "All Jid approve reject ✔",
+
+  "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact QUEEN-ANJU-MD Bot Owner Remove your Ban_* 👨‍🔧\n",
+
+  "erro": "Error",
+
+  "err": "*An error occurred 🧑‍🎨❌*"
+}
+
+}
